@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-[Home](/) | [Research](/research/) | [For Students](/student/) | [Teaching](/teaching/) | [Members](/members/)
+[Home](/) | [Research](/research/) | [For Students / 卒業研究](/student/) | [Teaching](/teaching/) | [Members](/members/)
 
 # Research
 
@@ -107,7 +107,7 @@ permalink: /research/
 という流れで研究を進めます。
 
 具体的な卒業研究の進め方については
-[For Students](/student/) を参照してください。
+[For Students / 卒業研究](/student/) を参照してください。
 
 ## Publications
 

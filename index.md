@@ -20,12 +20,12 @@ Cyber Physical AI Laboratory
 
 [研究内容を見る →](/research/)
 
-## For Students
+## For Students / 卒業研究
 
 研究室への配属を考えている学生向けに、
-卒業研究で取り組めるテーマや研究の進め方を紹介しています。
+卒業研究の進め方やテーマの決め方、2026年度の卒業研究プロジェクトを紹介しています。
 
-[配属を考えている学生へ →](/student/)
+[配属案内・卒業研究を見る →](/student/)
 
 ## Teaching
 
@@ -42,4 +42,4 @@ Cyber Physical AI Laboratory
 
 ---
 
-[Research](/research/) | [For Students](/student/) | [Teaching](/teaching/) | [Members](/members/)
+[Research](/research/) | [For Students / 卒業研究](/student/) | [Teaching](/teaching/) | [Members](/members/)

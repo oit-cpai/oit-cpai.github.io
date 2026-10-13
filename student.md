@@ -4,12 +4,16 @@ title: For Students
 permalink: /student/
 ---
 
-[Home](/) | [Research](/research/) | [For Students](/student/) | [Teaching](/teaching/) | [Members](/members/)
+[Home](/) | [Research](/research/) | [For Students / 卒業研究](/student/) | [Teaching](/teaching/) | [Members](/members/)
 
 # For Students
 
 このページでは、Cyber Physical AI Laboratoryへの配属を考えている学生を対象に、
 研究室でどのような研究ができるのか、卒業研究をどのように進めるのかを紹介します。
+
+[研究テーマについて](#一人ひとりに研究テーマを設定します) |
+[卒業研究の進め方](#卒業研究の進め方) |
+[2026年度の卒業研究](#2026年度-卒業研究プロジェクト)
 
 ## 一人ひとりに研究テーマを設定します
 

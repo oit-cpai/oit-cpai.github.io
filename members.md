@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 
-[Home](/) | [Research](/research/) | [For Students](/student/) | [Teaching](/teaching/) | [Members](/members/)
+[Home](/) | [Research](/research/) | [For Students / 卒業研究](/student/) | [Teaching](/teaching/) | [Members](/members/)
 
 # Members
 
